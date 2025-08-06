@@ -1,5 +1,6 @@
 Mod files created by pretzel3819 on discord
 
+Previous but active changes
 -scaled rex
 -nerfed crush dmg to 1000
 -nerfed the dmg-stam ratio to 75-10 instead of 100-10 but increased the reate of attack a lot(does less dmg but you finish a pin much faster)
@@ -12,3 +13,6 @@ Mod files created by pretzel3819 on discord
 -dibble 1500 kgs
 -dibble basically 40 km/h
 -upped its attacks a little
+
+New changes
+-set pachy speed to 42.5 km/h
