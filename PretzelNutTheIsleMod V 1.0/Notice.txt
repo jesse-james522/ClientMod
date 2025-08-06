@@ -6,9 +6,9 @@ Mod files created by pretzel3819 on discord
 -rebalanced allo to 2.8 tons. 38.7 km/h and 225 bite force
 -buffed ptera stam regen to 150 seconds base resting instead of 250 seconds
 -buffed ptera to 65 kg
--nerfed carno bite to 90
+-nerfed carno bite to 100
 -buffed carno alt bite to 225
--buffed ram stagger to 175
+-buffed ram knockdown to 225
 -dibble 1500 kgs
 -dibble basically 40 km/h
 -upped its attacks a little
