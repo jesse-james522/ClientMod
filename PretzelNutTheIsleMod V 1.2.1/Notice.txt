@@ -13,6 +13,7 @@ Previous but active changes
 -dibble 1500 kgs
 -dibble basically 40 km/h
 -upped its attacks a little
-
-New changes
 -set pachy speed to 42.5 km/h
+
+New changes:
+-lowered dibbles dmg a little 
